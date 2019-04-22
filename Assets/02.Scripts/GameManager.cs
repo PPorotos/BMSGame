@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
     public int score = 0;
 
     float beatPerBar = 32f;
-    int defaultSpeed = 10;
+    int defaultSpeed = 7;
     int timeRateBySpeed = 2;
 
     GameObject note;
