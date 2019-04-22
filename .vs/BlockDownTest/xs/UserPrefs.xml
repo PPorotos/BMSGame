@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D678EBEB-4651-3B42-6E8F-A00A28CE0D1C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02.Scripts/ClickButton.cs">
+    <Files>
+      <File FileName="Assets/Resources/Lovely_Summer.txt" Line="303" Column="24" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets/02.Scripts/AndroidPermissionsUsageExample.cs" Line="49" Column="41" />
+      <File FileName="Assets/02.Scripts/GameManager.cs" Line="40" Column="1" />
+      <File FileName="Assets/Resources/test.txt" Line="1" Column="1" />
+      <File FileName="Assets/02.Scripts/ClickEvent.cs" Line="19" Column="6" />
+      <File FileName="Assets/02.Scripts/BeatCreator.cs" Line="1" Column="1" />
+      <File FileName="Assets/02.Scripts/ClickButton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8edbb8e3-23a4-4ea6-a018-306029e208ec" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
